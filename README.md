@@ -2,7 +2,7 @@
 
 This is a practical page i built to learn Html, Sass, JS.
 
-Site is live ✨ - coming soon
+Site is live ✨ - https://hotel-template-example.netlify.app/
 
 ## Tech stack used
 
